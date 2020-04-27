@@ -1,6 +1,6 @@
 # Create your Costume class here
 # It should inherit from ActiveRecord::Base
-class CreateCostumes < ActiveRecord::Base[5.2]
+class CreateCostumes < ActiveRecord::Base
   
   def change 
     create_table :costumes do |t|
