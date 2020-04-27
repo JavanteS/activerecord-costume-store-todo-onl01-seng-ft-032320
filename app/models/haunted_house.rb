@@ -1,1 +1,2 @@
-# Create your HauntedHouse class here
+# Create your HauntedHouse class 
+class HauntedHouse < Active
